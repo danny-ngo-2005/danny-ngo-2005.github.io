@@ -2,30 +2,27 @@
   "basics": {
     "name": "Danny Ngo",
     "label": "Sophomore in University of Hawaii, Manoa",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://media.licdn.com/dms/image/v2/D5603AQHjJk1kMwEX3A/profile-displayphoto-shrink_400_400/B56ZRc5jL5HQAg-/0/1736725378244?e=1742428800&v=beta&t=GL7V3-wzwF0TKKsih3-YlhUY5n1H1Md4uYs1Dy8biiA",
     "email": "danny.ngo@hawaii.edu",
     "phone": "808-230-7443",
     "website": "https://danny-ngo-2005.github.io",
     "summary": "I am currently interested in Computer Science, and I am currently enlisted in a 4-year program in UH Manoa in order for me to achieve it. I am expected to graduate in 2027 and plan to find an occupation in Hawai'i.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "danny-ngo-2005", "url": "http://github.com/danny-ngo-2005" },
+      { "network": "linkedin", "username": "Danny Ngo", "url": "http://linkedin.com/in/danny-jamreon-ngo" },
+      { "network": "instagram", "username": "dannyjamreon", "url": "http://instagram.com/dannyjamreon" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "CyberSecurity" },
+    { "name": "Game Development" },
+    { "name": "Artificial Intelligence" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
