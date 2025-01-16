@@ -1,12 +1,13 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Danny Ngo",
+    "label": "Sophomore in University of Hawaii, Manoa",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "email": "danny.ngo@hawaii.edu",
+    "phone": "808-230-7443",
+    "website": "https://danny-ngo-2005.github.io",
+    "summary": "I am currently interested in Computer Science, and I am currently enlisted in a 4-year program in UH Manoa in order for me to achieve it.
+                I am expected to graduate in 2027 and plan to find an occupation in Hawai'i.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
