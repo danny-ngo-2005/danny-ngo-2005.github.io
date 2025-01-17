@@ -42,28 +42,20 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "H&T Burgers",
+      "position": "Customer Service",
+      "startDate": "2021-08-01",
+      "endDate": "2022-11-26",
+      "summary": "Interacting with customers by serving meals.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Janitorial service",
+        "Opening/Closing the restaurant",
+        "Food preparation",
+        "Communication with coworkers during busier days",
+        "Handling the money in the cash register"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+    
     }
   ],
   "volunteer": [
