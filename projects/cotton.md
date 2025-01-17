@@ -56,4 +56,4 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="https://www.theshelter.org"><i class="large github icon "><"the shelter">
+Source: <a href="https://www.theshelter.org"><i class="large github icon ">"the-shelter"
