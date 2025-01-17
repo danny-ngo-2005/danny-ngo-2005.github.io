@@ -18,4 +18,6 @@ THE SHELTER is a non-profit organization that my school and I volunteered in ass
 Throughout the 3-day program, my class and I undergo several tasks such as developing different recipes to accommodate for the menu, improving the exterior of each housing to account for the weather condition, and communicating with various residents about their suggestions or complaints.
 
 From this experience, I was able to form my team and provide a new recipe for the residents to enjoy. I was also able to control my teammates by making sure they do not stay off-course on the purpose of the project while also taking in their suggestions as well.
+
+
 Source: <a href="https://www.theshelter.org"><i class="large github icon ">"the-shelter"
