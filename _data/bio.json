@@ -31,13 +31,19 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii, Manoa, HI",
       "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
       "startDate": "2024-09-01",
       "endDate": "Present",
       "courses": [ "ICS 111", "ICS 211", "ENG 100", "ART 175", "ANTH 152", "MATH 241", "ICS 141", "MATH 242", "PSY 100", "THEA 101", "HAW 101", "ECON 130", "ICS 212", "ICS 241", "PHYS 151", "PHYS 151L"
       ]
+    },
+     {
+      "institution": "Koolau Baptist Academy, Kaneohe , HI",
+      "studyType": "Highshool Diploma",
+      "startDate": "2019-09-03",
+      "endDate": "2023-05-03"
     }
   ],
   "work": [
