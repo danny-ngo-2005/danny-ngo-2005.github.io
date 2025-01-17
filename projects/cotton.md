@@ -2,16 +2,16 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "THE SHELTER"
+date: 2020
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Management
+  - Leadership
+summary: "Volunteer for a non-profit organization in assisting the homeless."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="https://gray-khnl-prod.gtv-cdn.com/resizer/v2/ALOESERRENCP7OBCTFRVDPKLLY.bmp?auth=77e3f21cc80b8e1eca5231f25d1a92b2c3dc53c23b44e5d6161f4dbd563ec38a&width=800&height=450&smart=true">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
@@ -56,4 +56,4 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://www.theshelter.org"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
