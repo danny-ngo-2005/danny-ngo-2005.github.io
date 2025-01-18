@@ -9,9 +9,9 @@ labels:
   - Typescript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWOYykNrmuFxdgCNvyG0yGvWrYKlOAYyzNDA&s">
 
-*“My words itch at your ears till you understand them” * - Walt Whitman
+*“My words itch at your ears till you understand them”* - Walt Whitman
 
 Learning new language is always intriguing, especially for me. Every language has their own "twist" in them that makes them stand out with other languages. For example, the Hawaiian language has a different way of structuring sentence, with the action coming first in the sentence before the noun. "E ho'okani au
 i ka piano," can be roughly translated in English as, "Playing me the piano". Such twists and turns in the aspects of language make it a challenge for me to understand. 
