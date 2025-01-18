@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/micromouse/console.jpg
 title: "Distinct Counts"
 date: 2024
 published: true
