@@ -29,7 +29,7 @@ Soon, I started to observe the similarities. Objects, arrays, loops, astract, in
 
 ## Typescript?
 
-But a question dawned on me: What makes Typescript unique? Why wouldn't every program just run with one programming language? Just as with verbal language, programming languages have their advantages and disadvantages. Java may be a universal language, but it does take a lot of effort just to print
+But a question dawned on me: What makes Typescript so unique? Why wouldn't every program just run with one programming language? Just as with verbal language, programming languages have their advantages and disadvantages. Java may be a universal language, but it does take a lot of effort just to print
 "Hello world".
 
 ```java
@@ -47,7 +47,7 @@ But in Typescript, a single line of code is capable of producing the same output
   console.log("Hello World");
 ```
 
-While every language has an unanticipated disadvantage, they also have an area where they perform at their highest efficiency.
+While every language has an unanticipated disadvantage, there is also an area in which the language performs at their highest efficiency.
 
 ## Typescript!
 
