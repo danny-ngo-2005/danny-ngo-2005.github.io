@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/.png
 title: ""
 date: 2018
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "Modeling projects that I created in Roblox Studio"
 ---
 
-<img class="img-fluid" src="file:///C:/Users/danny/Downloads/Screenshot%202025-01-17%20185332.png">
+<img class="img-fluid" src= img/vacay/shotgun_tech.png >
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
