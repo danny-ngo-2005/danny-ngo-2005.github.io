@@ -24,6 +24,7 @@ These projects allowed me to learn the basic structures of coding with Lua, as w
 
 Some examples of some of the codes in the map that allowed for motion:
 
+```lua
 function onTouch(part) 
 	local humanoid = part.Parent:FindFirstChild("Humanoid") 
 	if (humanoid ~= nil) then	-- if a humanoid exists, then
@@ -32,6 +33,6 @@ end
 end
 
 script.Parent.Touched:connect(onTouch)
-
+```
  
 Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
