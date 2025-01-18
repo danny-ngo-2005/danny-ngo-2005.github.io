@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/vacay/.png
-title: ""
+image: img/vacay/pumpkin.png
+title: "Modeling Maps"
 date: 2018
 published: true
 labels:
