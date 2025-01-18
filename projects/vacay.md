@@ -13,8 +13,8 @@ labels:
 summary: "Modeling projects that I created in Roblox Studio"
 ---
 
-<img class="img-fluid" src="https://imgur.com/pRc04iH">
-<img class="img-fluid" src="https://imgur.com/QzfueXE">
+<img class="img-fluid" src="https://i.imgur.com/pRc04iH.png">
+<img class="img-fluid" src="https://i.imgur.com/QzfueXE.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
