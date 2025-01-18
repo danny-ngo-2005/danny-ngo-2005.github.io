@@ -2,18 +2,18 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+title: ""
+date: 2018
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Lua
+  - Roblox Studio
+  - Blender
+  - Modeling
+summary: "Modeling projects that I created in Roblox Studio"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="file:///C:/Users/danny/Downloads/Screenshot%202025-01-17%20185332.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
