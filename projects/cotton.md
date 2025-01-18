@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/dorm-03.png
 title: "THE SHELTER"
 date: 2020
 published: true
