@@ -54,4 +54,4 @@ While every language has an unanticipated disadvantage, there is also an area in
 Typescript, just like C and C++, is a unique language that I had to learn. It was not just a checkbox that I had to tick off, but rather an opportunity for me to experiment. A reason to learning a language like Hawaiian is to be able to be more open with people and being able to connect with other people
 by breaking the language barrier. Such goes with programming languages, as I knew that by learning Typescript, I am also giving myself a skill that allows me to work with other employers and peers who are used to using Typescript. 
 
-<sup>I did not use ChatGPT when typing my essay except for the format to make this sentence small</sup>.
+<sup>I did not use ChatGPT when typing my essay except for the format to make this sentence small.</sup>
