@@ -22,7 +22,7 @@ Many of these model were developed in an environment known as Roblox Studio, a L
 
 These projects allowed me to learn the basic structures of coding with Lua, as well as becoming a foundation for learning about Blender as well. I also refined my creativity and artistic skills through each project that I designed.
 
-Some examples of some of the codes in the map that allowed for motion:
+A sample of a code in the map that lowers the player's health to 0:
 
 ```lua
 function onTouch(part) 
@@ -35,4 +35,4 @@ end
 script.Parent.Touched:connect(onTouch)
 ```
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+If you would like to view my projects, you can go to this link. However, you must sign up if you do not have an account: <a href="https://create.roblox.com/dashboard/creations/experiences/1616294797/overview">Showcase/ObbySquad</a>
