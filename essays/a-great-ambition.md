@@ -11,7 +11,8 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://www.unitedworldtelecom.com/wp-content/uploads/2022/07/voip-engineer-network-engineer.png">
+<img width="300px" class="rounded float-start pe-4" src="https://www.unitedworldtelecom.com/wp-content/uploads/2022/07/voip-engineer-network-engineer.png">
+
 
 ## Expectations Perceived by Me
 
