@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A Great Ambition"
+title: "A Star"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-21
 published: true
