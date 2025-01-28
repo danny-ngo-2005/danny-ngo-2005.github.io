@@ -20,7 +20,7 @@ There is no such thing as a stupid question. Many students have heard a similar 
 The best way to define a "stupid question" is what I believe to be a question that leads to more questions. If the person who asks the question gets worse off by the answer, then they are asking "stupid questions". Furthermore, a question not fully developed or rather comes up on the spot with no thought or effort put into it can also be considered a "stupid question". If a person doesn't even try to find the answer by themselves, but rather through the effort of someone else, is the answer even worth the effort? A good example of a stupid question is given in the link below from Stack Overflow:
 
 ```
-https://stackoverflow.com/questions/28201031/need-help-on-printing-doubles-and-char-value?rq=3
+["Stupid Question"](https://stackoverflow.com/questions/28201031/need-help-on-printing-doubles-and-char-value?rq=3)
 ```
 First, the user focuses on showing the code first. This is a big problem for people who would like to help, as they have no background information upon first sight of the question and would assume they have to find the issue on their own. Furthermore, first impressions are like thumbnails on Youtube; If the first impression shown is a bunch of code, many coders would not be interested in giving their thought into the matter. Another issue to look over is that the user has not stated their attempts in finding the solution on their own. It would appear as though the user is only finding a temporary solution to a specific part, so they would not learn much from other's response other than the solution to fixing the code.
 
@@ -29,7 +29,7 @@ First, the user focuses on showing the code first. This is a big problem for peo
 But even so, everything has uncertainties. Everyone has a question they want to find the answer to, and most of those questions have been answered from students to experts. Before even developing a smart question, researching or finding the answer should be the first thing you do. Chances are, someonme has asked the same question that you did. One addition to forming a smart question is to ensure that the question you are asking is with effort, and that the purpose you are trying to get from asking said question is to learn from it, not get a quick fix to a problem. Here is another example from Stack Overflow in relations to a "smart question":
 
 ```
-https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array
+[Smart Question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 ```
 This is a perfect demonstration of a smart question. The first thing the user types in his question is a little information regarding the code that follows after. This narrows down the question into a specific area being C++, even giving information such as runtime and comparisons between the sorted and unsorted arrays. The user then states his attempt in understanding his concerns by trying the code in different languages such as Java, showing that the user intends on understanding the aspect of runtime through the example of sorted and unsorted arrays. A little bonus the user also added was some of his other questions and concerns related to his original question. The user intends on understanding the concept through different branches of topics.
 
