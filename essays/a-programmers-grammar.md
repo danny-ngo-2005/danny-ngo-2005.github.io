@@ -7,6 +7,8 @@ date: 2025-02-09
 published: true
 labels:
   - Typescript
+  - ESLint
+  - VSCode
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="https://thumbs.dreamstime.com/b/red-screen-code-inscription-error-190547191.jpg">
