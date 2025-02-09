@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A Programmer's Grammar"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-09
+date: 2025-02-09
 published: true
 labels:
   - Typescript
