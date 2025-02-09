@@ -9,7 +9,7 @@ labels:
   - Typescript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://static3.bigstockphoto.com/6/6/1/large1500/166137008.jpg">
+<img width="200px" class="rounded float-start pe-4" src="https://thumbs.dreamstime.com/b/red-screen-code-inscription-error-190547191.jpg">
 
 *“My words itch at your ears till you understand them”* - Walt Whitman
 
