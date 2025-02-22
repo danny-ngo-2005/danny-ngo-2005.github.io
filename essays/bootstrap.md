@@ -13,7 +13,7 @@ labels:
 ---
 
 <div style="display: flex; justify-content: center;">
-<img width="200px" class="rounded float-start pe-4 text-center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAb-nfH1Eh7IzfwLSFoYoSOzZ-z0XoyhM4oC-V0sVw8NYnVqjpmlWfBxEkA6SC35mhf5B5g_4FKcIP5MynSucbxe7oyyt-U-CUkPSCnOl7Men_ARd1zOcOV3oRX_-hCYhQp7Gy9VxyuKQ/s1600/FirstVersions_Google-logo.png">
+<img width="400px" class="rounded float-start pe-4 text-center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAb-nfH1Eh7IzfwLSFoYoSOzZ-z0XoyhM4oC-V0sVw8NYnVqjpmlWfBxEkA6SC35mhf5B5g_4FKcIP5MynSucbxe7oyyt-U-CUkPSCnOl7Men_ARd1zOcOV3oRX_-hCYhQp7Gy9VxyuKQ/s1600/FirstVersions_Google-logo.png">
 </div>
 
 ## Web Designing in General...
