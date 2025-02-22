@@ -12,8 +12,8 @@ labels:
   - Web Design
 ---
 
-<div>
-<img width="200px" class="rounded float-start pe-4 text-center" src="https://i.insider.com/5ba94213a5f71300a76a3c62?width=800&format=jpeg&auto=webp">
+<div style="display: flex; justify-content: center;">
+<img width="200px" class="rounded float-start pe-4 text-center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAb-nfH1Eh7IzfwLSFoYoSOzZ-z0XoyhM4oC-V0sVw8NYnVqjpmlWfBxEkA6SC35mhf5B5g_4FKcIP5MynSucbxe7oyyt-U-CUkPSCnOl7Men_ARd1zOcOV3oRX_-hCYhQp7Gy9VxyuKQ/s1600/FirstVersions_Google-logo.png">
 </div>
 
 ## Web Designing in General...
