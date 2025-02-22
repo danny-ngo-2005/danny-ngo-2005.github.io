@@ -12,7 +12,9 @@ labels:
   - Web Design
 ---
 
+<div>
 <img width="200px" class="rounded float-start pe-4 text-center" src="https://i.insider.com/5ba94213a5f71300a76a3c62?width=800&format=jpeg&auto=webp">
+</div>
 
 ## Web Designing in General...
 If you were to look up web designs from its early development, such as during its late 1900s, you would find many colorful and unique websites created by many curious users who saw the web as a new toolbox to tinker with. In fact, if it were not for such risky takes made by the user of the world wide web, we would not even have Google or Facebook! When compared to modern day web design, however, it is not as exciting and unique as it was back when it was first originated. Now, creating a website would not even require coding at all, as there are other websites that create websites for you with much convenience. However, such convenience could limit your ability to perform the most beautiful aspects of the World Wide Web. Though, in order to even display a website that shines your personality, you must also learn its aspects of coding. Coding that may make or break your dreams, depending on how determined you are to learn everything that there is to learn about web design.
