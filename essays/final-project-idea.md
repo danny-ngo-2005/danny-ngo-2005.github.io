@@ -23,13 +23,32 @@ The website will first send you to the home page that will display the title and
 Two types of user pages will be present: one for students and one for teachers
 
   For students:
-      - Given a new user page, an empty list will be displayed. If the user's page does have a class in their list, the user should be able to delete that class on that list page.
-          ~ A page will be dedicated for students that want to add classes. The only element choice is the class itself.
-          ~ Once the student is done filling their list with the classes that they enrolled in, another page will be the total material page where it will:
-              - Show all classes that the student pick
-              - All the materials that the student needs
-              - Total cost of materials
-              
+
+  <ul>
+    <li>
+      Given a new user page, an empty list will be displayed. If the user's page does have a class in their list, the user should be able to delete that class on that list page.
+      <ul>
+        <li>
+          A page will be dedicated for students that want to add classes. The only element choice is the class itself.
+        </li>
+        <li>
+          Once the student is done filling their list with the classes that they enrolled in, another page will be the total material page where it will:
+          <ul>
+            <li>
+              Show all classes that the student pick
+            </li>
+            <li>
+              All the materials that the student needs
+            </li>
+            <li>
+              Total cost of materials
+            </li> 
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+
   For professors:
   Very similar to the student page. However, the main configuration is the page for adding classes.
   <ul>
@@ -62,11 +81,23 @@ Two types of user pages will be present: one for students and one for teachers
 
   
 ## Case Ideas:
-  1) Incoming freshmen who may be inexperienced with the "flow" of college classes. Compiling their materials on a single app could help them be prepared for their courses.
-  2) Foreign/international students who may be unfamiliar with required materials for their classes.
-  3) Outside of syllabi, professors are able to help their students prepare for the class in upcoming semesters.
-  4) Other students can get an idea of what kinds of materials are used in classes they may take in the future.
-  5) Full-time students who could be occupied in multiple different acxtivites.
+<ol>
+  <li>
+    Incoming freshmen who may be inexperienced with the "flow" of college classes. Compiling their materials on a single app could help them be prepared for their courses.
+  </li>
+  <li>
+    Foreign/international students who may be unfamiliar with required materials for their classes.
+  </li>
+  <li>
+    Outside of syllabi, professors are able to help their students prepare for the class in upcoming semesters.
+  </li>
+  <li>
+    Other students can get an idea of what kinds of materials are used in classes they may take in the future.
+  </li>
+  <li>
+    Full-time students who could be occupied in multiple different activites.
+  </li>
+</ol>
 
 ## Beyond the Basics
   -  Whenever a professor needs to revise a class, an email will be sent to every student who enrolls in that class, in order to update them of any additional materials required or if they will not need that material.
