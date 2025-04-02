@@ -31,18 +31,35 @@ Two types of user pages will be present: one for students and one for teachers
               - Total cost of materials
               
   For professors:
-      <ol> Very similar to the student page. However, the main configuration is the page for adding classes.
-          <li>When adding classes, several options must be applied for it to be a valid class</li>
-            <ol>
-              <li> Name of class, i.e. ICS 311, PHYS-272. </li>
-               <li> The materials that are needed for the class </li>
-                 <ol>
-                  <li> Conditions of specified materials, i.e. books, calculators, etc. </li>
-                  <li> Quantity of materials, i.e. number of pencils, notebooks, etc. </li>
-                  <li> Cost of each material </li>
-                  </ol>
-            </ol>
-          <li>Total cost will be calculated for all materials for the class</li>
+  Very similar to the student page. However, the main configuration is the page for adding classes.
+  <ul>
+    <li>
+      When adding classes, several options must be applied for it to be a valid class
+      <ul>
+        <li>
+          Name of class, i.e. ICS 311, PHYS-272.
+        </li>
+        <li>
+          The materials that are needed for the class
+          <ul>
+            <li>
+              Conditions of specified materials, i.e. books, calculators, etc.
+            </li>
+            <li>
+              Quantity of materials, i.e. number of pencils, notebooks, etc.
+            </li>
+            <li>
+              Cost of each material
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>
+      Total cost will be calculated for all materials for the class
+    </li>
+  </ul>
+
   
 ## Case Ideas:
   1) Incoming freshmen who may be inexperienced with the "flow" of college classes. Compiling their materials on a single app could help them be prepared for their courses.
