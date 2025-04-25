@@ -10,7 +10,7 @@ labels:
   - Programming
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rd.com%2Flist%2Fhow-to-solve-a-jigsaw-puzzle-fast%2F&psig=AOvVaw28K16MnSZa_L7eDuvjlzfO&ust=1745634270807000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiT5siQ8owDFQAAAAAdAAAAABAE">
+<img width="200px" class="rounded float-start pe-4" src="https://www.rd.com/wp-content/uploads/2024/04/GettyImages-1152894858-Jigsaw-Puzzle-Strategy-to-Solve-Puzzles-Fast-JVedit.jpg">
 
 ## A Pattern
 A common issue always occur to many programmers as they tinker with coding. Every problem generally has a solution to it, and while many other programmers may have trouble fixing such errors, others have probably already found the solution to the problem. The usage of design
