@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "A Common Solution"
-# All dates must be YYYY-MM-DD format!
 date: 2025-04-24
 published: true
 labels:
@@ -13,26 +12,27 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="https://www.rd.com/wp-content/uploads/2024/04/GettyImages-1152894858-Jigsaw-Puzzle-Strategy-to-Solve-Puzzles-Fast-JVedit.jpg">
 
 ## A Pattern
-A common issue always occur to many programmers as they tinker with coding. Every problem generally has a solution to it, and while many other programmers may have trouble fixing such errors, others have probably already found the solution to the problem. The usage of design
-patterns has been an critical benefit in programming, as it allows programmers to be able to solve different issues using common reusable solutions. The way to think of design patterns are like a toolbox. Each individual design patterns resemble the individual tools to utilize, and
-every problem can resemble what the tools are used for.
 
-As oppose to programming based on wits, a design pattern has their benefits for the programmer. Especially when it comes to projects and large teams, it is often recommended to write your program in a format similar to a design pattern, as it allows others to see common issues and
-reuse components of design patterns.
+A common issue many programmers face as they tinker with code is encountering recurring problems. While some may struggle to fix these issues, others have already discovered effective solutions. This is where **design patterns** shine—providing reusable, time-tested approaches to solving common programming challenges.
 
-## Design Patterns?
-There are a wide variety of design patterns to consider. However, most of these design patterns for a programmer were probably unintentionally used. By giving more time to recognize these design patterns, a programmer can be also be able to reinforce their design patterns. 
-I would like to list some design patterns that I found to be effective in my programming skills:
-    <ul>
-      <li>
-        Prototype Method: This method involves a cut-and-paste approach which involves creating new instances from another pre-existing instance. This is an optimal choice when it comes to programming for me as it saves me time to modify an instance rather than having to 
-        program everything by scratch.
-      </li>
-      <li>
-        Singleton Method: This method is more of a theorem in programming that emphasizes that all instances are unique. A very basic but important design pattern especially when it comes to larger projects since issues could just arise due to instances with the same name.
-      </li>
-    </ul>
+Think of design patterns as a toolbox. Each individual pattern is like a specific tool, and every programming problem is a task that might require one of those tools. Instead of relying solely on instinct, applying a known design pattern can streamline your approach—especially in larger projects or team environments where consistency and reusability matter.
 
-  ## Conclusion
-  The best way to define design patterns in my words is that design patterns are the common solutions we form when it comes to an issue. The best way to fix an issue is as named to find a pattern in that issue, and by that pattern we find a solution. 
-  By practicing utilizing desing patterns, a programmer will not only save lots of time, but also their effort.
+## What Are Design Patterns?
+
+There’s a wide variety of design patterns to consider. Interestingly, many programmers might use them without even realizing it. By learning to identify these patterns consciously, developers can strengthen their problem-solving abilities and write more maintainable code.
+
+Here are a couple of design patterns I find particularly useful:
+
+<ul>
+  <li>
+    <strong>Prototype Pattern:</strong> This approach allows you to create new objects by copying an existing one, rather than building everything from scratch. I find this incredibly time-saving, especially when working on similar instances that only require slight modifications.
+  </li>
+  <li>
+    <strong>Singleton Pattern:</strong> This pattern ensures that a class has only one instance and provides a global point of access to it. It's especially useful in larger projects where duplicate instances could cause conflicts or inconsistencies.
+  </li>
+</ul>
+
+## Conclusion
+
+To me, design patterns are simply common solutions to common problems. When you identify a recurring issue, there’s often a pattern behind it—and with that pattern comes a solution. Practicing the use of design patterns not only saves time but also helps preserve effort and improves code quality.
+
