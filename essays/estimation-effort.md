@@ -9,7 +9,7 @@ labels:
   - Programming
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="https://www.rd.com/wp-content/uploads/2024/04/GettyImages-1152894858-Jigsaw-Puzzle-Strategy-to-Solve-Puzzles-Fast-JVedit.jpg">
+<img width="200px" class="rounded float-start pe-4" src="https://media.istockphoto.com/id/1257225447/vector/concept-of-choice-between-hard-and-easy-way.jpg?s=612x612&w=0&k=20&c=il1x4bMYmsGy7RpiGI4firKs31374Cs5LvANHQh9HMU=">
 
 ## Estimating Effort
 Time is always a valuable thing for a person. In fact, everything that we do has a dangerous cost to it: time. When it comes to programming, time is a crucial factor especially when it comes to groups/companies. A programmer's time must be spent wisely at ensuring that the code
