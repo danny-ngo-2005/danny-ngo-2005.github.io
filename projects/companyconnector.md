@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/dorm-03.png
+image: img/a.png
 title: "Project Janus"
 date: 2025
 published: true
