@@ -25,4 +25,5 @@ team members. I had to ensure a leadership role in order to get out website runn
 
 
 Source: <a href="https://project-janus.vercel.app"><i class="large github icon ">"Website Deployment" 
+
         <a href="https://project-janus-3.github.io/project-janus.github.io/ ">"More information on Project Janus"
