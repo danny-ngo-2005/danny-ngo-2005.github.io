@@ -13,7 +13,7 @@ labels:
 summary: "Project Janus: A company connector."
 ---
 
-<img class="img-fluid" src="https://raw.githubusercontent.com/danny-ngo-2005/danny-ngo-2005.github.io/img/a.png">
+<img class="img-fluid" src="https://t3.ftcdn.net/jpg/03/21/46/08/360_F_321460897_nAjcvUPvGIyJI1ECQOeoGwAafaEO0xDd.jpg">
 
 Project Janus is a final project developed by the members of me, Royce, Ethan, and Isaiah. Our website is a company connector which allows users to search up any opportunities that a company offers. This website allows for you to sign up an account whether it be student or company.
 
