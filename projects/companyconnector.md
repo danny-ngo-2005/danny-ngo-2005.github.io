@@ -24,6 +24,6 @@ different pages, but it also gave me the opportunity to understand and teach mys
 team members. I had to ensure a leadership role in order to get out website running, and so that our team members were up to date on what components they were working on. 
 
 
-Source: <a href="https://project-janus.vercel.app"><i class="large github icon ">"Website Deployment" 
+Source: <a href="https://project-janus.vercel.app"><i class="large github icon ">"Website Deployment"  
 
-        <a href="https://project-janus-3.github.io/project-janus.github.io/ ">"More information on Project Janus"
+<a href="https://project-janus-3.github.io/project-janus.github.io/ ">"More information on Project Janus"
